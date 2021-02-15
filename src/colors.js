@@ -1,0 +1,9 @@
+export const WHITE = "white";
+export const BLACK = "black";
+export const BLUE = "blue";
+export const BROWN = "brown";
+export const GREEN = "green";
+export const LIGHTGREEN = "lightgreen";
+export const ORANGE = "orange";
+export const RED = "red";
+export const YELLOW = "yellow";

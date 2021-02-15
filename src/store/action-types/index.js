@@ -1,0 +1,9 @@
+export const SET_WHITE = "SET_WHITE";
+export const SET_BLACK = "SET_BLACK";
+export const SET_BLUE = "SET_BLUE";
+export const SET_BROWN = "SET_BROWN";
+export const SET_GREEN = "SET_GREEN";
+export const SET_LIGHTGREEN = "SET_LIGHTGREEN";
+export const SET_ORANGE = "SET_ORANGE";
+export const SET_RED = "SET_RED";
+export const SET_YELLOW = "SET_YELLOW";
